@@ -166,7 +166,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way%20Mindset%20Boost.aspx?xsdata=MDV8MDJ8QXJqdW4uQ2hhbGxhQGJlcmthZGlhLmNvbXxkY2I1NjAxYmM2MDI0ZTY2ODkwYzA4ZGM4YTZmMWQ2N3wwNjZlYWI0ZGVkNjM0N2FiODEzZGY0ODk5ODRkODNjYnwwfDB8NjM4NTM3NDU3MDQ5OTM2MjQxfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazFoYVd3aUxDSlhWQ0k2TW4wPXwwfHx8&sdata=YVBIbnJsKzdWSFlkellQZmIvSXN3ek02TGhjbEZabHNIYUlQWGdsOVBHQT0%3d#xpointer(id('Click here')) to learn more and access Meet to Learn conversation starters. Please reach out to BerkadiaWay@berkadia.com to ask a question, request guidance, or share how this went.</value>
+    <value>Click here to learn more and access Meet to Learn conversation starters. Please reach out to BerkadiaWay@berkadia.com to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way%20Mindset%20Boost.aspx?xsdata=MDV8MDJ8QXJqdW4uQ2hhbGxhQGJlcmthZGlhLmNvbXxkY2I1NjAxYmM2MDI0ZTY2ODkwYzA4ZGM4YTZmMWQ2N3wwNjZlYWI0ZGVkNjM0N2FiODEzZGY0ODk5ODRkODNjYnwwfDB8NjM4NTM3NDU3MDQ5OTUwMzc5fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazFoYVd3aUxDSlhWQ0k2TW4wPXwwfHx8&sdata=ZnVWRHlTUzdrTXJpZXBhMTRCQWp0eWl3Ni9LSC8zUzh1MlJrU2l3YXU0dz0%3d#xpointer(id('learn more')) and access Meet to Learn conversation starters.</value>
+    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to learn more and access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
