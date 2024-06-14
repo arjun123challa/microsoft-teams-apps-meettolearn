@@ -166,7 +166,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value><link>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx#xpointer(id('Click here'))"</link> to learn more and access Meet to Learn conversation starters. Please reach out to <b>BerkadiaWay@berkadia.com</b> to ask a question, request guidance, or share how this went.</value>
+    <value>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx#xpointer(id('Click here'))" to learn more and access Meet to Learn conversation starters. Please reach out to <bold>BerkadiaWay@berkadia.com</bold> to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to <link>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx#xpointer(id('learn more'))"</link> and access Meet to Learn conversation starters.</value>
+    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx#xpointer(id('learn more'))" and access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
