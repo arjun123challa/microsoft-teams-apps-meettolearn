@@ -172,7 +172,7 @@
   <a href="{$hyperlink}">
   <xsl:value-of select="@href" />
   </a>
-  <xsl:stylesheet>
+  </xsl:stylesheet>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
     <a href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</a> <value>to learn more and access Meet to Learn conversation starters. Please reach out to <b>BerkadiaWay@berkadia.com</b> to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
