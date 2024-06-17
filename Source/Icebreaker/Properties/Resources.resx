@@ -170,7 +170,7 @@
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>You've been matched with {0}.</value>
+    <value>You've been matched with **{0}**.</value>
     <comment>The text saying who the user has been matched up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Please click on the "Learn more" button in the "Meet to Learn" match card to access Meet to Learn conversation starters.</value>
+    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you!</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
