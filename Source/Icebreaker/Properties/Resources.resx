@@ -105,6 +105,14 @@
       </xsd:complexType>
     </xsd:element>
   </xsd:schema>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:variable name="hyperlink">
+  <xsl:value-of select="@href" />
+  </xsl:variable>
+  <a href="{$hyperlink}">
+  <xsl:value-of select="@href" />
+  </a>
+</xsl:stylesheet>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -165,14 +173,6 @@
     <value>I’m here to help you schedule and prepare for your next meaningful conversation with a fellow Berkadian.</value>
     <comment>First part of the match up card main content</comment>
   </data>
-  <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:variable name="hyperlink">
-  <xsl:value-of select="@href" />
-  </xsl:variable>
-  <a href="{$hyperlink}">
-  <xsl:value-of select="@href" />
-  </a>
-  </xsl:stylesheet>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
     <a href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</a> <value>to learn more and access Meet to Learn conversation starters. Please reach out to <b>BerkadiaWay@berkadia.com</b> to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
