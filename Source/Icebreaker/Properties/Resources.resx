@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root xmlns:xlink="http://www.w3.org/1999/xlink">
+<root>
   <!-- 
     Microsoft ResX Schema 
     
@@ -165,8 +165,8 @@
     <value>I’m here to help you schedule and prepare for your next meaningful conversation with a fellow Berkadian.</value>
     <comment>First part of the match up card main content</comment>
   </data>
-  <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value><a xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</a> to learn more and access Meet to Learn conversation starters. Please reach out to <b>BerkadiaWay@berkadia.com</b> to ask a question, request guidance, or share how this went.</value>
+  <data name="MatchUpCardContentPart2" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <value>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</value> <value>to learn more and access Meet to Learn conversation starters. Please reach out to BerkadiaWay@berkadia.com to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
@@ -177,8 +177,8 @@
     <value>Plan your next Meet to Learn!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
-  <data name="MeetupContent" xml:space="preserve">
-    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to <a xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">learn more</a> and access Meet to Learn conversation starters.</value>
+  <data name="MeetupContent" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to</value><value xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">learn more</value> <value>and access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
