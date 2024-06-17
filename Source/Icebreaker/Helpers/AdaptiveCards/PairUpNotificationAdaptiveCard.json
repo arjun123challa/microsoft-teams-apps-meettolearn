@@ -61,15 +61,9 @@
       "url": "${meetingLink}"
     },
     {
-      "type": "Action.Submit",
-      "title": "${pauseMatchesButtonText}",
-      "data": {
-        "msteams": {
-          "type": "messageBack",
-          "displayText": "${pauseMatchesButtonText}",
-          "text": "optout"
-        }
-      }
+      "type": "Action.OpenUrl",
+      "title": "Info",
+      "url": "https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx"
     }
   ],
   "version": "1.0"
