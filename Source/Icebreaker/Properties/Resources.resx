@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -165,7 +165,7 @@
     <value>I’m here to help you schedule and prepare for your next meaningful conversation with a fellow Berkadian.</value>
     <comment>First part of the match up card main content</comment>
   </data>
-  <data name="MatchUpCardContentPart2" xml:space="preserve" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <data name="MatchUpCardContentPart2" xml:space="preserve">
     <value><xhtml:a href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</xhtml:a> to learn more and access Meet to Learn conversation starters. Please reach out to <b>BerkadiaWay@berkadia.com</b> to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
@@ -177,7 +177,7 @@
     <value>Plan your next Meet to Learn!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
-  <data name="MeetupContent" xml:space="preserve" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <data name="MeetupContent" xml:space="preserve">
     <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to <xhtml:a href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">learn more</xhtml:a> and access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
