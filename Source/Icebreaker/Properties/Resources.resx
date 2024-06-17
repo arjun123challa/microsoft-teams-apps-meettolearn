@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -166,8 +166,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <value>xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">Click here</value> 
-    <value>to learn more and access Meet to Learn conversation starters. Please reach out to BerkadiaWay@berkadia.com to ask a question, request guidance, or share how this went.</value>
+    <value>Click on the Info button below to learn more and access Meet to Learn conversation starters. Please reach out to BerkadiaWay@berkadia.com to ask a question, request guidance, or share how this went.</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
@@ -179,9 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to</value>
-    <value xlink:href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">learn more</value> 
-    <value>and access Meet to Learn conversation starters.</value>
+    <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Please click on the Info button in the match card to access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
