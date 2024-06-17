@@ -177,7 +177,7 @@
     <value>Plan your next Meet to Learn!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
-  <data name="MeetupContent" xml:space="preserve">
+  <data name="MeetupContent" xml:space="preserve" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <value>It looks like we’ve been matched for a Meet to Learn. I’m excited to have a conversation with you! Here’s a link we were provided to <xhtml:a href="https://berkadia.sharepoint.com/sites/Berkadia-Way/SitePages/Berkadia-Way Mindset Boost.aspx">learn more</xhtml:a> and access Meet to Learn conversation starters.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
